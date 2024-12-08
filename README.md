@@ -1,5 +1,5 @@
 # BookMyShow Application
-[Click here to view the project](https://booked-myshow.netlify.app)
+
 This repository contains the source code for the **BookMyShow Application** project, which I built during the **7-Day Guvi Buildathon Workshop**. The project showcases the development of a complete web application using modern web development technologies.
 
 ## Overview
@@ -98,5 +98,6 @@ The BookMyShow Application is a full-stack web project that replicates a ticket 
 - Special thanks to the instructor **Rajavasantham** for guiding us through the process.
 
 [Project link](https://booked-myshow.netlify.app)
+[Certificate].( https://www.guvi.in/verify-certificate?id=1T4G7R0019yM73L4A8)
 ---
 Thank you for checking out my project! ✨
