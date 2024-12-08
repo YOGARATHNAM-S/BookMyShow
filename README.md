@@ -98,6 +98,7 @@ The BookMyShow Application is a full-stack web project that replicates a ticket 
 - Special thanks to the instructor **Rajavasantham** for guiding us through the process.
 
 [Project link](https://booked-myshow.netlify.app)
-[Certificate].( https://www.guvi.in/verify-certificate?id=1T4G7R0019yM73L4A8)
+
+[Certificate](https://www.guvi.in/verify-certificate?id=1T4G7R0019yM73L4A8)
 ---
 Thank you for checking out my project! ✨
